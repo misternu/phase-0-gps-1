@@ -1,5 +1,5 @@
 *italics*
-**bold**
+**Cats**
 
 Tim:
 > Make a block quote!
@@ -15,3 +15,5 @@ Tim:
 [google](http://www.google.com)
 
 ![Working with Tim](./Working With Tim.png)
+
+Edit
