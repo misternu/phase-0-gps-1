@@ -1,5 +1,5 @@
 *italics*
-**bold**
+**Dogs**
 
 Tim:
 > Make a block quote!
